@@ -1,0 +1,14 @@
+{
+  "name": "v_24weatherappnodejs",
+  "version": "1.0.0",
+  "description": "Creating WeatherAppNodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BloodX",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
